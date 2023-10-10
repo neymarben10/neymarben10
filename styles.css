@@ -1,0 +1,41 @@
+* {
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+#container {
+    width: 1950px;
+    border: 1px solid #F8F8FF;
+    padding: 0px;
+    margin: 0px;
+}
+.top {
+    width: 100%;
+    border: 1px solid #A9A9A9;
+    background-color: #A9A9A9;
+}
+.top p{
+    margin-top: 3px;
+    padding-inline: 3%;
+    font-size: 23px;
+}
+.enq {
+    width: 20%;
+    border: 1px solid #F8F8FF;
+    float: left;
+    height: 740px;
+    background-color: #F8F8FF;
+}
+.enq img{
+    padding: 4%;
+}
+.corpo {
+    width: 80%;
+    height: 720px;
+    background-color: #FFFAFA;
+}
+.rodape {
+    border: 1px solid #A9A9A9;
+    background-color: #A9A9A9;
+    width: 80%;
+}
